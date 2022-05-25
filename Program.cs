@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace FileApplication
+namespace project
 {
     class Program
     {
